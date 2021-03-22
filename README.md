@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I'm Mcguffen 👋
-![my blog](https://mcguffen.github.io/)
+[my blog](https://mcguffen.github.io/)
 
 
 
