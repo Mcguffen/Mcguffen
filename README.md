@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Mcguffen 👋
 
-![my blog](https://mcguffen.github.io/images/logo.png)
+![my blog](https://mcguffen.github.io/images/favicon.ico)
 [my blog](https://mcguffen.github.io/)
 
 
