@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Mcguffen 👋
+### Hi there, I'm Mcguffen .👋
 
 ![my blog](https://mcguffen.github.io/images/favicon.ico)
 [my blog](https://mcguffen.github.io/)
